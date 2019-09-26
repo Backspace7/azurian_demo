@@ -37,3 +37,7 @@ El proceso para la instalación y ejecución del fron-end ubicado del del direct
 - npm start
 
 > En esta aplicación se mapean  los recursos, proporcionando un interfaz para su utilización.
+
+## Base de Datos y Tabla.
+En el archivo ***Mysql_db_table.sql*** se encuentra el script con el cual se crea la base de datos y la tabla con sus columnas respectivas, también se definen los formatos. 
+
